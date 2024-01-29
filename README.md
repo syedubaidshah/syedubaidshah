@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/syedubaidshah/syedubaidshah/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Syed Ubaid Shah</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
 
