@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedubaidshah&label=Profile%20views&color=0e75b6&style=flat" alt="syedubaidshah" /> </p>
 
-- 🌱 I’m currently learning **Web Development etc.**
+- 🌱 I’m currently learning: **Web Development etc.**
 
-- 📫 How to reach me **obaidshah0099@gmail.com**
+- 📫 How to reach me: **obaidshah0099@gmail.com**
 
-- ⚡ Fun fact **I am funny😂**
+- ⚡ Fun fact: **I am funny😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
